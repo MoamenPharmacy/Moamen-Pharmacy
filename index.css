@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نرحب بكم في صيدليات دكتور مؤمن</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        #branches {
+            margin-bottom: 20px;
+        }
+
+        .branch {
+            background-color: white;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #social-media a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Moamen Pharmacy</h1>
+    </header>
+    <main>
+        <section id="branches">
+            <h2>Our Branches</h2>
+            <div class="branch">
+                <h3>Branch 1 صيدلية د أحمد الطوخي</h3>
+                <p>Address: 47 شارع عبدالكريم الخطابي - الحضرة البحرية امام نقطة شرطة الابراهيمية</p>
+                <p>WhatsApp: <a href="https://wa.me/201559568008" target="_blank">01559568008</a></p>
+                <p>Landline: 034268008</p>
+                <p> <a href="https://maps.app.goo.gl/4uDFgXAcEWHGB4hA6" target="_blank"> Location</a></p>
+            </div>
+            <div class="branch">
+                <h3>Branch 2 صيدلية د كمال محيي الدين</h3>
+                <p>Address: 158 عمر لطفي - سبورتينج الصغري امام محطة ترام سبورتينج الصغري</p>
+                <p>WhatsApp: <a href="https://wa.me/201068257579" target="_blank">01068257579</a></p>
+                <p>Landline: 035913821</p>
+                <p> <a href="https://maps.app.goo.gl/g133suQeJFAsU3YB9" target="_blank"> Location</a></p>
+
+            </div>
+            <div class="branch">
+                <h3>Branch 3 صيدلية د السيد بكري</h3>
+                <p>Address: 13 شارع مستشفي النزهة - الحضرة الجديدة</p>
+                <p>WhatsApp: <a href="https://wa.me/201559738008" target="_blank">01559738008</a></p>
+                <p>Landline: 033829994</p>
+                <p> <a href="https://maps.app.goo.gl/JNZZaMGeBZupUSq37" target="_blank"> Location</a></p>
+            </div>
+        </section>
+        <section id="social-media">
+            <h2>Follow Us</h2>
+            <p><a href="https://www.facebook.com/MoamenPharmacy" target="_blank">Facebook</a></p>
+            <p><a href="https://www.youtube.com/@dr.moamenattya" target="_blank">YouTube</a></p>
+        </section>
+        <hr />
+        <br />
+        <br />
+        <br />
+        <br />
+        
+    </main>
+    <footer>
+        <p>© 2024 Moamen Pharmacy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
